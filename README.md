@@ -6,3 +6,4 @@ I'm coursing my first year in university (currently on summer break). I've done 
 
 [![Artstation](https://custom-icon-badges.demolab.com/badge/Artstation-blue.svg?style=for-the-badge&logoColor=white&logo=artstation)](https://m4xp0w3rg4m3s.artstation.com/)
 [![Itch.io](https://custom-icon-badges.demolab.com/badge/Itch.io-orange.svg?style=for-the-badge&logoColor=white&logo=itchdotio)](https://m4xp0w3r.itch.io/)
+[![Mail](https://custom-icon-badges.demolab.com/badge/Gmail-red.svg?style=for-the-badge&logoColor=white&logo=gmail)](m4xp0w3r.dev@gmail.com)
