@@ -20,6 +20,8 @@ I've done some projects for class and some for myself, here you can find most of
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="30" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maya/maya-original.svg" height="30" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" height="30" />
+<img align="left" src="https://cdn.simpleicons.org/aseprite/#7D929E" height="30"  />
+
 </br>
 
 ### Languages I work with </br>
