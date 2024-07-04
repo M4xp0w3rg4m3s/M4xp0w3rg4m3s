@@ -1,6 +1,6 @@
 #  🐧**Hi!! I'm Max**
 
-### Game development and design student
+#### Game development and design student
 
 I'm coursing my first year in university (currently on summer break). I've done some projects for class and some for myself, here you have some of them. Thank you for looking at my profile!
 
