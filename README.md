@@ -34,7 +34,7 @@ I've done some projects for class and some for myself, here you can find most of
 
 #
 
-### <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="25" /> Github Projects
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="25" /> Github Projects
 
 🧛‍♂️🏰⚔ From Project 1 subject (First year, second quarter), a tribute to the MSX2 game Vampire Killer (later Castelvania)
 
@@ -51,15 +51,16 @@ I've done some projects for class and some for myself, here you can find most of
 
 ### 3D Models
 
-🤖 From 3D Modeling subject (First year, second quarter), a 3D model of Megaman Zero
+<img src="https://www.svgrepo.com/show/246922/robot.svg" height="15" /> From 3D Modeling subject (First year, second quarter), a 3D model of Megaman Zero
 
 [![See it on Artstation](https://custom-icon-badges.demolab.com/badge/See_it_on_Artstation-black.svg?style=for-the-badge&logoColor=yellow&logo=artstation&labelColor=990000)](https://m4xp0w3rg4m3s.artstation.com/projects/OG1NeK)
 [![See it on Sketchfab](https://custom-icon-badges.demolab.com/badge/See_it_on_Sketchfab-black.svg?style=for-the-badge&logoColor=yellow&logo=sketchfab&labelColor=990000)](https://sketchfab.com/3d-models/megaman-zero-mid-poly-fe952632dd1c4004bbf5974447fd94e9)
 
 ![Render 1 - Megaman](https://github.com/M4xp0w3rg4m3s/M4xp0w3rg4m3s/assets/156011390/66961b32-f2d9-4a39-bb83-8da6e44311ed)
 
+</br>
 
-👾 Also from 3D Modeling subject (First year, second quarter), a 3D model of Totodile
+<img src="https://www.svgrepo.com/show/276264/pokeball-pokemon.svg" height="15" /> Also from 3D Modeling subject (First year, second quarter), a 3D model of Totodile
 
 [![See it on Artstation](https://custom-icon-badges.demolab.com/badge/See_it_on_Artstation-6BB5E7.svg?style=for-the-badge&logoColor=ffff99&logo=artstation)](https://m4xp0w3rg4m3s.artstation.com/projects/rJxL5m)
 [![See it on Sketchfab](https://custom-icon-badges.demolab.com/badge/See_it_on_Sketchfab-6BB5E7.svg?style=for-the-badge&logoColor=ffff99&logo=sketchfab)](https://sketchfab.com/3d-models/totodile-realistic-textures-low-mid-poly-6163ca8ef3414e3ea87461819d043573)
