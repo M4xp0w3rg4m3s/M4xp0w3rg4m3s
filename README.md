@@ -9,19 +9,19 @@ I've done some projects for class and some for myself, here you can find most of
 [![Artstation](https://custom-icon-badges.demolab.com/badge/Artstation-black.svg?style=for-the-badge&logoColor=blue&logo=artstation)](https://m4xp0w3rg4m3s.artstation.com/)
 [![Sketchfab](https://custom-icon-badges.demolab.com/badge/Sketchfab-blue.svg?style=for-the-badge&logoColor=white&logo=sketchfab)](https://sketchfab.com/m4xp0w3r)
 
-#
 ### Tools I use </br>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" height="30" />
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" height="30" />
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-line.svg" height="30" />
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maya/maya-original.svg" height="30" />
+<img align="left" src="https://www.svgrepo.com/show/508998/zbrush.svg" height="30"  />
+<img align="left" src="https://cdn.worldvectorlogo.com/logos/substance-3d-painter-1.svg" height="30"  />
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" height="30" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" height="30" />
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/6/69/Logo_Aseprite.svg" height="30"  />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" height="30" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="30" />
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" height="30" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="30" />
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maya/maya-original.svg" height="30" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" height="30" />
-<img align="left" src="https://cdn.simpleicons.org/aseprite/#7D929E" height="30"  />
-
 </br>
 
 ### Languages I work with </br>
