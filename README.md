@@ -60,7 +60,7 @@ I've done some projects for class and some for myself, here you can find most of
 
 </br>
 
-<img src="https://www.svgrepo.com/show/276264/pokeball-pokemon.svg" height="15" /> Also from 3D Modeling subject (First year, second quarter), a 3D model of Totodile
+<img src="https://www.svgrepo.com/show/276264/pokeball-pokemon.svg" height="15" /> Also from 3D Modeling subject, a 3D model of Totodile
 
 [![See it on Artstation](https://custom-icon-badges.demolab.com/badge/See_it_on_Artstation-6BB5E7.svg?style=for-the-badge&logoColor=ffff99&logo=artstation)](https://m4xp0w3rg4m3s.artstation.com/projects/rJxL5m)
 [![See it on Sketchfab](https://custom-icon-badges.demolab.com/badge/See_it_on_Sketchfab-6BB5E7.svg?style=for-the-badge&logoColor=ffff99&logo=sketchfab)](https://sketchfab.com/3d-models/totodile-realistic-textures-low-mid-poly-6163ca8ef3414e3ea87461819d043573)
