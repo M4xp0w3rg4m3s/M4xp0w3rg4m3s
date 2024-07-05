@@ -47,9 +47,23 @@ I've done some projects for class and some for myself, here you can find most of
 [![Vampire Killers version 1.0 - Zephyrus games / Project 1](https://ytcards.demolab.com/?id=TM-ENfidVEI&title=Vampire+Killers+version+1.0+-+Zephyrus+games+/+Project+1&lang=en&timestamp=1717279200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=229 "Vampire Killers version 1.0 - Zephyrus games / Project 1")](https://www.youtube.com/watch?v=TM-ENfidVEI)
 <!-- END YOUTUBE-CARDS -->
 
+#
+
 ### 3D Models
 
 🤖 From 3D Modeling subject (First year, second quarter), a 3D model of Megaman Zero
 
-<div class="sketchfab-embed-wrapper"> <iframe title="Megaman Zero (mid poly)" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/fe952632dd1c4004bbf5974447fd94e9/embed?ui_theme=dark"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/megaman-zero-mid-poly-fe952632dd1c4004bbf5974447fd94e9?utm_medium=embed&utm_campaign=share-popup&utm_content=fe952632dd1c4004bbf5974447fd94e9" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> Megaman Zero (mid poly) </a> by <a href="https://sketchfab.com/m4xp0w3r?utm_medium=embed&utm_campaign=share-popup&utm_content=fe952632dd1c4004bbf5974447fd94e9" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> M4xp0w3r </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=fe952632dd1c4004bbf5974447fd94e9" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div>
+[![See it on Artstation](https://custom-icon-badges.demolab.com/badge/See_it_on_Artstation-black.svg?style=for-the-badge&logoColor=yellow&logo=artstation&labelColor=990000)](https://m4xp0w3rg4m3s.artstation.com/projects/OG1NeK)
+[![See it on Sketchfab](https://custom-icon-badges.demolab.com/badge/See_it_on_Sketchfab-black.svg?style=for-the-badge&logoColor=yellow&logo=sketchfab&labelColor=990000)](https://sketchfab.com/3d-models/megaman-zero-mid-poly-fe952632dd1c4004bbf5974447fd94e9)
+
+![Render 1 - Megaman](https://github.com/M4xp0w3rg4m3s/M4xp0w3rg4m3s/assets/156011390/66961b32-f2d9-4a39-bb83-8da6e44311ed)
+
+
+👾 Also from 3D Modeling subject (First year, second quarter), a 3D model of Totodile
+
+[![See it on Artstation](https://custom-icon-badges.demolab.com/badge/See_it_on_Artstation-6BB5E7.svg?style=for-the-badge&logoColor=ffff99&logo=artstation)](https://m4xp0w3rg4m3s.artstation.com/projects/rJxL5m)
+[![See it on Sketchfab](https://custom-icon-badges.demolab.com/badge/See_it_on_Sketchfab-6BB5E7.svg?style=for-the-badge&logoColor=ffff99&logo=sketchfab)](https://sketchfab.com/3d-models/totodile-realistic-textures-low-mid-poly-6163ca8ef3414e3ea87461819d043573)
+
+![Render 4 - Totodile](https://github.com/M4xp0w3rg4m3s/M4xp0w3rg4m3s/assets/156011390/f4191fe7-565d-44b5-9e61-33615709f06f)
+
 
