@@ -41,6 +41,8 @@ I've done some projects for class and some for myself, here you can find most of
 [![Go to repo](https://custom-icon-badges.demolab.com/badge/Github_Repository-990000.svg?style=for-the-badge&logoColor=white&logo=repo)](https://github.com/M4xp0w3rg4m3s/Vampire-Killer)
 [![Website](https://custom-icon-badges.demolab.com/badge/Project_Website-990000.svg?style=for-the-badge&logoColor=white&logo=website)](https://m4xp0w3rg4m3s.github.io/Vampire-Killer/)
 
+<!-- https://ytcards.demolab.com/?id=<video ID>&title=<video+title>&lang=en&timestamp=<video publish date in Unix time format>&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=<video duration in seconds> "<video title>") -->
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![Vampire Killers version 0.5 - Zephyrus games / Project 1](https://ytcards.demolab.com/?id=6NMuUqSo27c&title=Vampire+Killers+version+0.5+-+Zephyrus+games+/+Project+1&lang=en&timestamp=1713650400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=146 "Vampire Killers version 0.5 - Zephyrus games / Project 1")](https://www.youtube.com/watch?v=6NMuUqSo27c)
+[![Vampire Killers version 1.0 - Zephyrus games / Project 1](https://ytcards.demolab.com/?id=TM-ENfidVEI&title=Vampire+Killers+version+1.0+-+Zephyrus+games+/+Project+1&lang=en&timestamp=1717279200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=229 "Vampire Killers version 1.0 - Zephyrus games / Project 1")](https://www.youtube.com/watch?v=TM-ENfidVEI)
 <!-- END YOUTUBE-CARDS -->
