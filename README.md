@@ -2,7 +2,7 @@
 
 ### Game development and design student
 
-👨‍🎓 I'm coursing my first year in university at [CITM](https://www.citm.upc.edu/) (currently on summer break). </br>
+👨‍🎓 I'm coursing my second year in university at [CITM](https://www.citm.upc.edu/). </br>
 🗣 I am a native speaker of Catalan and Spanish and fluent in English (Cambridge C1 Level, coursing the degree in English) </br>
 
 I've done some projects for class and some for myself, here you can find most of them!
@@ -14,22 +14,22 @@ I've done some projects for class and some for myself, here you can find most of
 ---
 
 ### 🧰 Tools I use </br>
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" height="30" />
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maya/maya-original.svg" height="30" />
-<img align="left" src="https://www.svgrepo.com/show/508998/zbrush.svg" height="30"  />
-<img align="left" src="https://cdn.worldvectorlogo.com/logos/substance-3d-painter-1.svg" height="30"  />
-<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" height="30" />
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" height="30" />
-<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/6/69/Logo_Aseprite.svg" height="30"  />
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" height="30" />
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="30" />
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" height="30" />
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="30" />
+<a href="https://www.autodesk.com/products/3ds-max/overview?term=1-YEAR&tab=subscription&plc=3DSMAX"><img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" height="30" />
+<a href="https://www.autodesk.com/products/maya/overview?term=1-YEAR&tab=subscription&plc=MAYA"><img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maya/maya-original.svg" height="30" />
+<a href="https://www.maxon.net/en/zbrush"><img align="left" src="https://www.svgrepo.com/show/508998/zbrush.svg" height="30" />
+<a href="https://www.adobe.com/products/substance3d/apps/painter.html"><img align="left" src="https://cdn.worldvectorlogo.com/logos/substance-3d-painter-1.svg" height="30" />
+<a href="https://www.adobe.com/products/illustrator.html"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" height="30" />
+<a href="https://www.adobe.com/products/photoshop.html"><img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" height="30" />
+<a href="https://www.aseprite.org/"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/6/69/Logo_Aseprite.svg" height="30" />
+<a href="https://visualstudio.microsoft.com"><img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" height="30" />
+<a href="https://code.visualstudio.com/"><img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="30" />
+<a href="https://godotengine.org/"><img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" height="30" />
+<a href="https://github.com/"><img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="30" />
 </br>
 
 ### 👩🏻‍💻Languages I work with </br>
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="30" />
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="30" />
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="30" />
+<a href="https://es.wikipedia.org/wiki/C++"><img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="30" />
 </br>
 
 #
