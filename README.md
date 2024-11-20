@@ -36,6 +36,12 @@ I've done some projects for class and some for myself, here you can find most of
 
 ### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="25" /> Github Projects
 
+🟥💥<img src="https://www.svgrepo.com/show/276264/pokeball-pokemon.svg" height="15" />💯 From Physics 2 subject (Second year, first quarter), a tribute to the GBC game Pokémon Pinball
+
+[![Go to repo](https://custom-icon-badges.demolab.com/badge/Github_Repository-white.svg?style=for-the-badge&logoColor=white&logo=repo&labelColor=990000)](https://github.com/XeivUPC/Pinball_Game)
+
+
+
 🧛‍♂️🏰⚔ From Project 1 subject (First year, second quarter), a tribute to the MSX2 game Vampire Killer (later Castelvania)
 
 [![Go to repo](https://custom-icon-badges.demolab.com/badge/Github_Repository-990000.svg?style=for-the-badge&logoColor=white&logo=repo)](https://github.com/M4xp0w3rg4m3s/Vampire-Killer)
