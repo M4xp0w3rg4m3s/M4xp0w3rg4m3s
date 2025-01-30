@@ -36,13 +36,37 @@ I've done some projects for class and some for myself, here you can find most of
 
 ### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="25" /> Github Projects
 
-🟥💥<img src="https://www.svgrepo.com/show/276264/pokeball-pokemon.svg" height="15" />💯 From Physics 2 subject (Second year, first quarter), a tribute to the GBC game Pokémon Pinball
+✨⚔️🐗 From Game Development subject (Second year, first quarter), a platformer game: **Echo of Ages**
+
+[![Go to repo](https://custom-icon-badges.demolab.com/badge/Github_Repository-FAB12F.svg?style=for-the-badge&logoColor=black&logo=repo&labelColor=FA812F)](https://github.com/XeivUPC/Racing_Game)
+
+
+
+
+🐸🫧🪕 For the Global Game Jam 2025 - UPC Barcelona, theme: Bubble, **BUBBLE BANGO**
+
+[![Go to repo](https://custom-icon-badges.demolab.com/badge/Github_Repository-e5d09d.svg?style=for-the-badge&logoColor=b45d3f&logo=repo&labelColor=dd8d4c)](https://github.com/albpb/BUBBLE-BANGO)
+[![Go to GGJ site](https://custom-icon-badges.demolab.com/badge/GGJ_site-e5d09d.svg?style=for-the-badge&logoColor=b45d3f&logo=link-external&labelColor=dd8d4c)](https://globalgamejam.org/games/2025/bubble-bango-6)
+
+![BUBBLE_BANGO](https://github.com/user-attachments/assets/8b555e09-c16a-48b0-a2cd-f5ea47dcb76d)
+
+
+
+
+🚗🏎️🏍️🏁 From Physics 2 subject (Second year, first quarter), a racing game: **Turbo Wheels**
+
+[![Go to repo](https://custom-icon-badges.demolab.com/badge/Github_Repository-white.svg?style=for-the-badge&logoColor=white&logo=repo&labelColor=black)](https://github.com/XeivUPC/Racing_Game)
+
+
+
+
+🟥💥<img src="https://www.svgrepo.com/show/276264/pokeball-pokemon.svg" height="15" />💯 From Physics 2 subject (Second year, first quarter), a tribute to the GBC game **Pokémon Pinball**
 
 [![Go to repo](https://custom-icon-badges.demolab.com/badge/Github_Repository-white.svg?style=for-the-badge&logoColor=white&logo=repo&labelColor=990000)](https://github.com/XeivUPC/Pinball_Game)
 
 
 
-🧛‍♂️🏰⚔ From Project 1 subject (First year, second quarter), a tribute to the MSX2 game Vampire Killer (later Castelvania)
+🧛‍♂️🏰⚔ From Project 1 subject (First year, second quarter), a tribute to the MSX2 game **Vampire Killer** (later Castelvania)
 
 [![Go to repo](https://custom-icon-badges.demolab.com/badge/Github_Repository-990000.svg?style=for-the-badge&logoColor=white&logo=repo)](https://github.com/M4xp0w3rg4m3s/Vampire-Killer)
 [![Website](https://custom-icon-badges.demolab.com/badge/Project_Website-990000.svg?style=for-the-badge&logoColor=white&logo=website)](https://m4xp0w3rg4m3s.github.io/Vampire-Killer/)
@@ -57,7 +81,7 @@ I've done some projects for class and some for myself, here you can find most of
 
 ### 3D Models
 
-<img src="https://www.svgrepo.com/show/246922/robot.svg" height="15" /> From 3D Modeling subject (First year, second quarter), a 3D model of Megaman Zero
+<img src="https://www.svgrepo.com/show/246922/robot.svg" height="15" /> From 3D Modeling subject (First year, second quarter), a 3D model of **Megaman Zero**
 
 [![See it on Artstation](https://custom-icon-badges.demolab.com/badge/See_it_on_Artstation-black.svg?style=for-the-badge&logoColor=yellow&logo=artstation&labelColor=990000)](https://m4xp0w3rg4m3s.artstation.com/projects/OG1NeK)
 [![See it on Sketchfab](https://custom-icon-badges.demolab.com/badge/See_it_on_Sketchfab-black.svg?style=for-the-badge&logoColor=yellow&logo=sketchfab&labelColor=990000)](https://sketchfab.com/3d-models/megaman-zero-mid-poly-fe952632dd1c4004bbf5974447fd94e9)
@@ -66,7 +90,7 @@ I've done some projects for class and some for myself, here you can find most of
 
 </br>
 
-<img src="https://www.svgrepo.com/show/276264/pokeball-pokemon.svg" height="15" /> Also from 3D Modeling subject, a 3D model of Totodile
+<img src="https://www.svgrepo.com/show/276264/pokeball-pokemon.svg" height="15" /> Also from 3D Modeling subject, a 3D model of **Totodile**
 
 [![See it on Artstation](https://custom-icon-badges.demolab.com/badge/See_it_on_Artstation-6BB5E7.svg?style=for-the-badge&logoColor=ffff99&logo=artstation)](https://m4xp0w3rg4m3s.artstation.com/projects/rJxL5m)
 [![See it on Sketchfab](https://custom-icon-badges.demolab.com/badge/See_it_on_Sketchfab-6BB5E7.svg?style=for-the-badge&logoColor=ffff99&logo=sketchfab)](https://sketchfab.com/3d-models/totodile-realistic-textures-low-mid-poly-6163ca8ef3414e3ea87461819d043573)
