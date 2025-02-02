@@ -32,8 +32,7 @@ I've done some projects for class and some for myself, here you can find most of
 <a href="https://es.wikipedia.org/wiki/C++"><img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="30" />
 </br>
 
-#
-
+---
 ### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="25" /> Github Projects
 
 ✨⚔️🐗 From Game Development subject (Second year, first quarter), a platformer game: **Echo of Ages**
@@ -46,7 +45,7 @@ I've done some projects for class and some for myself, here you can find most of
 <img src="https://github.com/user-attachments/assets/c21823f9-d52e-4e7a-8ce9-45438a38fbbc" width="350" height="200" />
 <img src="https://github.com/user-attachments/assets/c24fe4d9-4bcc-4194-a1ee-342049b915fe" width="350" height="200" />
 
-
+#
 
 🐸🫧🪕 For the Global Game Jam 2025 - UPC Barcelona, theme: Bubble, **BUBBLE BANGO**
 
@@ -55,8 +54,7 @@ I've done some projects for class and some for myself, here you can find most of
 
 ![BUBBLE_BANGO](https://github.com/user-attachments/assets/8b555e09-c16a-48b0-a2cd-f5ea47dcb76d)
 
-
-
+#
 
 🚗🏎️🏍️🏁 From Physics 2 subject (Second year, first quarter), a racing game: **Turbo Wheels**
 
@@ -66,8 +64,7 @@ I've done some projects for class and some for myself, here you can find most of
 <img src="https://github.com/user-attachments/assets/fda517ae-3b59-4ea2-bead-a09cdd50b06f" width="350" height="200" />
 <img src="https://github.com/user-attachments/assets/8a6ebb05-9dc0-4f66-9eba-664b36b6ffcf" width="350" height="200" />
 
-
-
+#
 
 🟥💥<img src="https://www.svgrepo.com/show/276264/pokeball-pokemon.svg" height="15" />💯 Also from Physics 2 subject (Second year, first quarter), a tribute to the GBC game **Pokémon Pinball**
 
@@ -80,6 +77,7 @@ I've done some projects for class and some for myself, here you can find most of
 <img src="https://github.com/user-attachments/assets/4f36da23-cdc5-4e64-bca6-d20fd9e8f2ff" width="256" height="230" />
 <img src="https://github.com/user-attachments/assets/3544d772-20f3-4dbc-b1a2-e816b9b87179" width="256" height="230" />
 
+#
 
 🧛‍♂️🏰⚔ From Project 1 subject (First year, second quarter), a tribute to the MSX2 game **Vampire Killer** (later Castelvania)
 
