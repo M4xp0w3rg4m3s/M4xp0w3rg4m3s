@@ -101,7 +101,7 @@ From Design 1 (Second year, first quarter), our own board game that passed throu
 <!-- https://ytcards.demolab.com/?id=<video ID>&title=<video+title>&lang=en&timestamp=<video publish date in Unix time format>&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=<video duration in seconds> "<video title>") -->
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Fortune Fields / Instructions Video - Game Design I](https://ytcards.demolab.com/?id=Sc84BRxKEiY&title=Fortune+Fields+/+Instructions+Video+-+Game+Design+I&lang=en&timestamp=1737673200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=111 "Fortune Fields / Instructions Video - Game Design I")](https://www.youtube.com/watch?v=Sc84BRxKEiY)
-[![Fortune Fields / Gameplay Video - Game Design I](https://ytcards.demolab.com/?id=KSL4HYNO5Tw&title=Fortune+Fields+/+Gameplay+Video+-+Game+Design+I&lang=en&timestamp=1737586800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1165 "Fortune Fields / Gameplay Video - Game Design I")](https://www.youtube.com/watch?v=TM-ENfidVEI)
+[![Fortune Fields / Gameplay Video - Game Design I](https://ytcards.demolab.com/?id=KSL4HYNO5Tw&title=Fortune+Fields+/+Gameplay+Video+-+Game+Design+I&lang=en&timestamp=1737586800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1165 "Fortune Fields / Gameplay Video - Game Design I")](https://youtu.be/KSL4HYNO5Tw)
 <!-- END YOUTUBE-CARDS -->
 
 <img width="595" alt="Sell Sheet" src="https://github.com/user-attachments/assets/621116b4-1275-424f-a8b5-511ad9a07063" />
