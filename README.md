@@ -104,7 +104,7 @@ From Design 1 (Second year, first quarter), our own board game that passed throu
 [![Fortune Fields / Gameplay Video - Game Design I](https://ytcards.demolab.com/?id=KSL4HYNO5Tw&title=Fortune+Fields+/+Gameplay+Video+-+Game+Design+I&lang=en&timestamp=1737586800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1165 "Fortune Fields / Gameplay Video - Game Design I")](https://www.youtube.com/watch?v=TM-ENfidVEI)
 <!-- END YOUTUBE-CARDS -->
 
-<img width="595" alt="Sell Sheet" src="https://github.com/user-attachments/assets/65ed60bf-88aa-4ded-94be-02d10f76a480" />
+<img width="595" alt="Sell Sheet" src="https://github.com/user-attachments/assets/621116b4-1275-424f-a8b5-511ad9a07063" />
 
 ---
 
