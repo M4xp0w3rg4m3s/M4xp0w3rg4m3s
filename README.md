@@ -67,10 +67,18 @@ I've done some projects for class and some for myself, here you can find most of
 <img src="https://github.com/user-attachments/assets/8a6ebb05-9dc0-4f66-9eba-664b36b6ffcf" width="350" height="200" />
 
 
-🟥💥<img src="https://www.svgrepo.com/show/276264/pokeball-pokemon.svg" height="15" />💯 From Physics 2 subject (Second year, first quarter), a tribute to the GBC game **Pokémon Pinball**
+
+
+🟥💥<img src="https://www.svgrepo.com/show/276264/pokeball-pokemon.svg" height="15" />💯 Also from Physics 2 subject (Second year, first quarter), a tribute to the GBC game **Pokémon Pinball**
 
 [![Go to repo](https://custom-icon-badges.demolab.com/badge/Github_Repository-white.svg?style=for-the-badge&logoColor=white&logo=repo&labelColor=990000)](https://github.com/XeivUPC/Pinball_Game)
 
+<img src="https://github.com/user-attachments/assets/4f36da23-cdc5-4e64-bca6-d20fd9e8f2ff" width="320" height="288" />
+<img src="https://github.com/user-attachments/assets/767ef881-1350-429b-9aa7-d3a6b330eb02" width="320" height="288" />
+<img src="https://github.com/user-attachments/assets/3544d772-20f3-4dbc-b1a2-e816b9b87179" width="320" height="288" />
+<img src="https://github.com/user-attachments/assets/a1f6b6da-d345-4ddc-a91a-b97077b4e9a5" width="320" height="288" />
+<img src="https://github.com/user-attachments/assets/470dafa3-338a-41b0-a7ed-44eed47dd393" width="320" height="288" />
+<img src="https://github.com/user-attachments/assets/7bbd30e7-0b6d-4dd6-ac03-d91db683a728" width="320" height="288" />
 
 
 🧛‍♂️🏰⚔ From Project 1 subject (First year, second quarter), a tribute to the MSX2 game **Vampire Killer** (later Castelvania)
