@@ -90,7 +90,23 @@ I've done some projects for class and some for myself, here you can find most of
 [![Vampire Killers version 1.0 - Zephyrus games / Project 1](https://ytcards.demolab.com/?id=TM-ENfidVEI&title=Vampire+Killers+version+1.0+-+Zephyrus+games+/+Project+1&lang=en&timestamp=1717279200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=229 "Vampire Killers version 1.0 - Zephyrus games / Project 1")](https://www.youtube.com/watch?v=TM-ENfidVEI)
 <!-- END YOUTUBE-CARDS -->
 
-#
+---
+### Physical Projects
+### <img src="https://github.com/user-attachments/assets/025e091f-8df5-471c-a4b8-e18677dc53cc" height="15" /> ***Fortune Fields - The Board Game*** <img src="https://github.com/user-attachments/assets/e7000f5d-1f60-458a-b490-a189c86ba54d" height="15" /> 
+From Design 1 (Second year, first quarter), our own board game that passed through several iterations and prototypes.
+
+[![Print & Play](https://custom-icon-badges.demolab.com/badge/Print_&_Play-grey.svg?style=for-the-badge&logoColor=yellow&logo=fortunefieldscoinskull&labelColor=663300)](https://drive.google.com/file/d/1l4a1eIoLxhDCQD1jgkxpumk_4bORvRZR/view?usp=sharing)
+[![Instructions](https://custom-icon-badges.demolab.com/badge/Instructions-grey.svg?style=for-the-badge&logoColor=yellow&logo=fortunefieldscoinclover&labelColor=663300)](https://drive.google.com/file/d/1uMCUIwWK68vinp-BeR8j4Mo2l2ZBEaHa/view?usp=sharing)
+
+<!-- https://ytcards.demolab.com/?id=<video ID>&title=<video+title>&lang=en&timestamp=<video publish date in Unix time format>&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=<video duration in seconds> "<video title>") -->
+<!-- BEGIN YOUTUBE-CARDS -->
+[![Fortune Fields / Instructions Video - Game Design I](https://ytcards.demolab.com/?id=Sc84BRxKEiY&title=Fortune+Fields+/+Instructions+Video+-+Game+Design+I&lang=en&timestamp=1737673200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=111 "Fortune Fields / Instructions Video - Game Design I")](https://www.youtube.com/watch?v=Sc84BRxKEiY)
+[![Fortune Fields / Gameplay Video - Game Design I](https://ytcards.demolab.com/?id=KSL4HYNO5Tw&title=Fortune+Fields+/+Gameplay+Video+-+Game+Design+I&lang=en&timestamp=1737586800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1165 "Fortune Fields / Gameplay Video - Game Design I")](https://www.youtube.com/watch?v=TM-ENfidVEI)
+<!-- END YOUTUBE-CARDS -->
+
+<img width="595" alt="Sell Sheet" src="https://github.com/user-attachments/assets/65ed60bf-88aa-4ded-94be-02d10f76a480" />
+
+---
 
 ### 3D Models
 
