@@ -62,7 +62,9 @@ I've done some projects for class and some for myself, here you can find most of
 
 [![Go to repo](https://custom-icon-badges.demolab.com/badge/Github_Repository-white.svg?style=for-the-badge&logoColor=white&logo=repo&labelColor=black)](https://github.com/XeivUPC/Racing_Game)
 
-
+<img src="https://github.com/user-attachments/assets/9e67877f-fb98-4ce4-9dec-1e1ab2ace040" width="350" height="200" />
+<img src="https://github.com/user-attachments/assets/fda517ae-3b59-4ea2-bead-a09cdd50b06f" width="350" height="200" />
+<img src="https://github.com/user-attachments/assets/8a6ebb05-9dc0-4f66-9eba-664b36b6ffcf" width="350" height="200" />
 
 
 🟥💥<img src="https://www.svgrepo.com/show/276264/pokeball-pokemon.svg" height="15" />💯 From Physics 2 subject (Second year, first quarter), a tribute to the GBC game **Pokémon Pinball**
