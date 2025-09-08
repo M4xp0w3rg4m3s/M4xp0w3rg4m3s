@@ -56,6 +56,23 @@ I've done some projects for class and some for myself, here you can find most of
 
 #
 
+🏰👑🗡️🏹 From Project 2 subject (Second year, second quarter), Top-Down RPG **The Record of Lies: Crown's Formation**
+
+[![Go to repo](https://custom-icon-badges.demolab.com/badge/Github_Repository-white.svg?style=for-the-badge&logoColor=white&logo=repo&labelColor=990000)](https://github.com/XeivUPC/RPG_Project2)
+
+
+<img width="164" height="135" alt="recordlieslogo" src="https://github.com/user-attachments/assets/6da3f425-d0ac-4d61-8bc1-d6edc19aa250" />
+<img width="190" height="180" alt="esset axis loo" src="https://github.com/user-attachments/assets/f837853f-e39f-4311-858f-efafebd5f607" />
+
+
+<!-- https://ytcards.demolab.com/?id=<video ID>&title=<video+title>&lang=en&timestamp=<video publish date in Unix time format>&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=<video duration in seconds> "<video title>") -->
+<!-- BEGIN YOUTUBE-CARDS -->
+[![Teaser trailer - The Record of Lies Crown's Formation](https://ytcards.demolab.com/?id=6NMuUqSo27c&title=Teaser+trailer+-+The+Record+of+Lies+Crown's+Formation&lang=en&timestamp=1713650400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=146 "Teaser trailer - The Record of Lies Crown's Formation")](https://www.youtube.com/watch?v=SXoNxZx2jw0)
+<!-- END YOUTUBE-CARDS -->
+
+#
+
+
 🚗🏎️🏍️🏁 From Physics 2 subject (Second year, first quarter), a racing game: **Turbo Wheels**
 
 [![Go to repo](https://custom-icon-badges.demolab.com/badge/Github_Repository-white.svg?style=for-the-badge&logoColor=white&logo=repo&labelColor=black)](https://github.com/XeivUPC/Racing_Game)
