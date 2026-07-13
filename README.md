@@ -2,7 +2,7 @@
 
 ### Game development and design student
 
-👨‍🎓 I'm coursing my second year in university at [CITM](https://www.citm.upc.edu/). </br>
+👨‍🎓 I'm about to course my fourth year in university at [CITM](https://www.citm.upc.edu/). </br>
 🗣 I am a native speaker of Catalan and Spanish and fluent in English (Cambridge C1 Level, coursing the degree in English) </br>
 
 I've done some projects for class and some for myself, here you can find most of them!
@@ -14,26 +14,41 @@ I've done some projects for class and some for myself, here you can find most of
 ---
 
 ### 🧰 Tools I use </br>
+<a href="https://unity.com/"><img align="left" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/unity/unity-original.svg" height="30" />
+<a href="https://www.unrealengine.com/"><img align="left" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/unrealengine/unrealengine-original.svg" height="30" />
+<a href="https://godotengine.org/"><img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" height="30" />
+<a href="https://github.com/"><img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="30" />
+<a href="https://visualstudio.microsoft.com"><img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" height="30" />
+<a href="https://code.visualstudio.com/"><img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="30" />
 <a href="https://www.autodesk.com/products/3ds-max/overview?term=1-YEAR&tab=subscription&plc=3DSMAX"><img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" height="30" />
 <a href="https://www.autodesk.com/products/maya/overview?term=1-YEAR&tab=subscription&plc=MAYA"><img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maya/maya-original.svg" height="30" />
 <a href="https://www.maxon.net/en/zbrush"><img align="left" src="https://www.svgrepo.com/show/508998/zbrush.svg" height="30" />
 <a href="https://www.adobe.com/products/substance3d/apps/painter.html"><img align="left" src="https://cdn.worldvectorlogo.com/logos/substance-3d-painter-1.svg" height="30" />
 <a href="https://www.adobe.com/products/illustrator.html"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" height="30" />
 <a href="https://www.adobe.com/products/photoshop.html"><img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" height="30" />
-<a href="https://www.aseprite.org/"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/6/69/Logo_Aseprite.svg" height="30" />
-<a href="https://visualstudio.microsoft.com"><img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" height="30" />
-<a href="https://code.visualstudio.com/"><img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="30" />
-<a href="https://godotengine.org/"><img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" height="30" />
-<a href="https://github.com/"><img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="30" />
+<a href="https://www.aseprite.org/"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/6/69/Logo_Aseprite.svg" width="30" />
 </br>
 
 ### 👩🏻‍💻Languages I work with </br>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="30" />
-<a href="https://es.wikipedia.org/wiki/C++"><img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="30" />
+<a href="https://en.wikipedia.org/wiki/C++"><img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="30" />
+<a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"><img align="left" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/csharp/csharp-original.svg" height="30" />
 </br>
 
 ---
 ### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="25" /> Github Projects
+
+From Project 3 subject (Third year, first quarter), an action adventure game with exploration and puzzles: **The Fable of the Eclipse**
+
+[![Go to Website](https://custom-icon-badges.demolab.com/badge/Website-4D1980.svg?style=for-the-badge&logoColor=black&logo=link-external&labelColor=8000A6)](https://github.com/UPC-GameEngines-BCN-2025/WooshEngine)
+
+#
+
+From Game Engines subject (Third year, first quarter), an engine: **Woosh Engine**
+
+[![Go to repo](https://custom-icon-badges.demolab.com/badge/Github_Repository-4D1980.svg?style=for-the-badge&logoColor=black&logo=repo&labelColor=8000A6)](https://github.com/UPC-GameEngines-BCN-2025/WooshEngine)
+
+#
 
 ✨⚔️🐗 From Game Development subject (Second year, first quarter), a platformer game: **Echo of Ages**
 
@@ -59,16 +74,10 @@ I've done some projects for class and some for myself, here you can find most of
 🏰👑🗡️🏹 From Project 2 subject (Second year, second quarter), Top-Down RPG **The Record of Lies: Crown's Formation**
 
 [![Go to repo](https://custom-icon-badges.demolab.com/badge/Github_Repository-white.svg?style=for-the-badge&logoColor=white&logo=repo&labelColor=990000)](https://github.com/XeivUPC/RPG_Project2)
+[![Narrative and GDD](https://custom-icon-badges.demolab.com/badge/Narrative_and_GDD-white.svg?style=for-the-badge&logoColor=white&logo=googledrive&labelColor=990000)](https://drive.google.com/drive/folders/1PvPiuu6HcAIfPIyeJx6ChGxg485tUhVY?usp=drive_link)
 
-
-<img width="164" height="135" alt="recordlieslogo" src="https://github.com/user-attachments/assets/6da3f425-d0ac-4d61-8bc1-d6edc19aa250" />
-<img width="190" height="180" alt="esset axis loo" src="https://github.com/user-attachments/assets/f837853f-e39f-4311-858f-efafebd5f607" />
-
-
-<!-- https://ytcards.demolab.com/?id=<video ID>&title=<video+title>&lang=en&timestamp=<video publish date in Unix time format>&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=<video duration in seconds> "<video title>") -->
-<!-- BEGIN YOUTUBE-CARDS -->
-[![Teaser trailer - The Record of Lies Crown's Formation](https://ytcards.demolab.com/?id=6NMuUqSo27c&title=Teaser+trailer+-+The+Record+of+Lies+Crown's+Formation&lang=en&timestamp=1713650400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=146 "Teaser trailer - The Record of Lies Crown's Formation")](https://www.youtube.com/watch?v=SXoNxZx2jw0)
-<!-- END YOUTUBE-CARDS -->
+<img width="194" height="160" alt="recordlieslogo" src="https://github.com/user-attachments/assets/6da3f425-d0ac-4d61-8bc1-d6edc19aa250" />
+<img width="169" height="160" alt="esset axis loo" src="https://github.com/user-attachments/assets/f837853f-e39f-4311-858f-efafebd5f607" />
 
 #
 
