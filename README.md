@@ -43,6 +43,7 @@ From Project 3 subject (Third year, first quarter), an action adventure game wit
 [![Go to Website](https://custom-icon-badges.demolab.com/badge/Website-FCF0D6.svg?style=for-the-badge&logoColor=black&logo=link-external&labelColor=5E6FC7)](https://mini-knight-studio.github.io/The-Fable-Of-The-Eclipse/)
 [![Go to Itch](https://custom-icon-badges.demolab.com/badge/Itch-FCF0D6.svg?style=for-the-badge&logoColor=black&logo=itch-io&labelColor=5E6FC7)](https://mini-knight-studio.itch.io/fable-of-the-eclipse)
 
+<img width="355" height="200" alt="Main Menu BG" src="https://github.com/user-attachments/assets/ae90dc52-cdc4-45f2-9dac-e2905e8431c4" />
 <img width="355" height="200" alt="image" src="https://github.com/user-attachments/assets/6619c372-869c-42cc-b31e-e2895b48991d" />
 <img width="355" height="200" alt="image" src="https://github.com/user-attachments/assets/bb3ec161-1f01-4a38-be3e-1fe78e356032" />
 <img width="355" height="200" alt="image" src="https://github.com/user-attachments/assets/3c24e06f-33a3-420e-9250-e11264d09e16" />
