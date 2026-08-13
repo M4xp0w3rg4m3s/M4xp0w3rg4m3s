@@ -40,7 +40,8 @@ I've done some projects for class and some for myself, here you can find most of
 
 From Project 3 subject (Third year, first quarter), an action adventure game with exploration and puzzles: **The Fable of the Eclipse**
 
-[![Go to Website](https://custom-icon-badges.demolab.com/badge/Website-4D1980.svg?style=for-the-badge&logoColor=black&logo=link-external&labelColor=8000A6)](https://github.com/UPC-GameEngines-BCN-2025/WooshEngine)
+[![Go to Website](https://custom-icon-badges.demolab.com/badge/Website-FCF0D6.svg?style=for-the-badge&logoColor=black&logo=link-external&labelColor=5E6FC7)](https://mini-knight-studio.github.io/The-Fable-Of-The-Eclipse/)
+[![Go to Itch](https://custom-icon-badges.demolab.com/badge/Itch-FCF0D6.svg?style=for-the-badge&logoColor=black&logo=itch-io&labelColor=5E6FC7)](https://mini-knight-studio.itch.io/fable-of-the-eclipse)
 
 #
 
